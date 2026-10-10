@@ -49,7 +49,9 @@ python visualize.py          # рисунки и демо-видео
 ![Срез видео во времени]<img width="1320" height="550" alt="fig_xt_slice" src="https://github.com/user-attachments/assets/d7f00d7b-cafa-47e4-bb1b-a0b08fa47dee" />
 
 
-Демо «до | после»:[ [results/demo_before_after.mp4]](https://1drv.ms/v/c/b22509efcb43f0db/IQAD0ePbm3q6Tpg5uG2WJ1-oAcbed_FP_X9444nQ85FT3_o?e=ynhbLc)https://1drv.ms/v/c/b22509efcb43f0db/IQCghzRPkPjqTLMKLAvXpsF7AWfLXauCScKFXYkkDJCo3Lg?e=xaNzmD
+Демо «до | после»:https://1drv.ms/v/c/b22509efcb43f0db/IQAD0ePbm3q6Tpg5uG2WJ1-oAcbed_FP_X9444nQ85FT3_o?e=RjdTgE
+
+после https://1drv.ms/v/c/b22509efcb43f0db/IQCghzRPkPjqTLMKLAvXpsF7AWfLXauCScKFXYkkDJCo3Lg?e=UEqCRO
 
 ## Ограничения
 
@@ -58,7 +60,7 @@ python visualize.py          # рисунки и демо-видео
 - В сценах без текстуры (белая стена, небо) точек для слежения мало.
 - Платим ~10% поля зрения (zoom).
 
-Полный отчёт: [report.md](report.md)
+Полный отчёт: https://1drv.ms/t/c/b22509efcb43f0db/IQDOE5tC2tkoTa6FYlrOhCtbAYGAjfawNc4t-dIrSyrvKuU?e=S2Ieza
 
 ## Источники
 
