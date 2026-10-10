@@ -6,7 +6,8 @@
 Программа убирает дрожание камеры из видео: оставляет плавное движение (панораму),
 а мелкие тряски вычитает. Только классические методы, без нейросетей.
 
-blob:https://claude.ai/d7ccb6d8-1774-49da-93aa-261f1025c35a
+<img width="1650" height="726" alt="fig_pipeline" src="https://github.com/user-attachments/assets/bff6995f-450f-45ab-845c-6d2559a62680" />
+
 
 ## Как это работает
 
@@ -45,9 +46,10 @@ python visualize.py          # рисунки и демо-видео
 Проверено на 8 сценариях: шум, засветка, движущиеся объекты, перекрытие 40% кадра,
 размытие, бедная текстура, сильное дрожание.
 
-![Срез видео во времени](figures/fig_xt_slice.png)
+![Срез видео во времени]<img width="1320" height="550" alt="fig_xt_slice" src="https://github.com/user-attachments/assets/d7f00d7b-cafa-47e4-bb1b-a0b08fa47dee" />
 
-Демо «до | после»: [results/demo_before_after.mp4](results/demo_before_after.mp4)
+
+Демо «до | после»:[ [results/demo_before_after.mp4]](https://1drv.ms/v/c/b22509efcb43f0db/IQAD0ePbm3q6Tpg5uG2WJ1-oAcbed_FP_X9444nQ85FT3_o?e=ynhbLc)https://1drv.ms/v/c/b22509efcb43f0db/IQCghzRPkPjqTLMKLAvXpsF7AWfLXauCScKFXYkkDJCo3Lg?e=xaNzmD
 
 ## Ограничения
 
