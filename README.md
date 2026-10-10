@@ -53,7 +53,7 @@ python visualize.py          # рисунки и демо-видео
 
 после https://1drv.ms/v/c/b22509efcb43f0db/IQCghzRPkPjqTLMKLAvXpsF7AWfLXauCScKFXYkkDJCo3Lg?e=UEqCRO
 
-## Ограничения
+## Ограничени
 
 - Тесты синтетические, на реальных видео проверка ограниченная.
 - Не учитываются параллакс и rolling shutter.
