@@ -29,9 +29,9 @@ python stabilizer.py моё_видео.mp4 результат.avi --radius 15
 Воспроизвести тесты и рисунки:
 
 ```bash
-python make_test_videos.py   # создаёт 8 тестовых видео в data/
-python evaluate.py           # считает метрики -> results/metrics.csv
-python visualize.py          # рисунки и демо-видео
+python make_test_videos.py   
+python evaluate.py           
+python visualize.py          
 ```
 
 ## Результаты (на синтетических тестах)
